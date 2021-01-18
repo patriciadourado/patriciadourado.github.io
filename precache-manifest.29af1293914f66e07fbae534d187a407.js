@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d84a3264a257136f5851c68953b0f6d5",
+    "revision": "39017650bd00aa953befe34d5893c3e6",
     "url": "/index.html"
   },
   {
-    "revision": "a4d861941042fc45198d",
-    "url": "/static/css/main.bc637b41.chunk.css"
+    "revision": "54215d7972bba62cee36",
+    "url": "/static/css/main.d1dc4eed.chunk.css"
   },
   {
-    "revision": "47c9f43de6a4f0765663",
-    "url": "/static/js/2.5620ca74.chunk.js"
+    "revision": "280da0a1166e75d7be33",
+    "url": "/static/js/2.d12d253f.chunk.js"
   },
   {
-    "revision": "a4d861941042fc45198d",
-    "url": "/static/js/main.74cb691f.chunk.js"
+    "revision": "54215d7972bba62cee36",
+    "url": "/static/js/main.74ff546c.chunk.js"
   },
   {
     "revision": "a99fc08f10046f85459e",
@@ -24,8 +24,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/app-ru.ee3521c7.jpg"
   },
   {
-    "revision": "a540849417d05978c9307a5bc3336f09",
-    "url": "/static/media/avifa.a5408494.jpg"
+    "revision": "441215f37837e458511bdd5d0492c312",
+    "url": "/static/media/blog-pic.441215f3.jpg"
   },
   {
     "revision": "9e0922ea1c51a8fd17e9e308ca16e938",
@@ -36,8 +36,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/m-app-ru.4a0e10fb.jpg"
   },
   {
-    "revision": "ce19b3eeb31b7948fab9d5ad6a6f68bd",
-    "url": "/static/media/m-avifa.ce19b3ee.jpg"
+    "revision": "72982e34c7606394033758d3b76aade0",
+    "url": "/static/media/m-magyarflix.72982e34.jpg"
   },
   {
     "revision": "f7451b4a17e39bc1caf9d56bc4ba5c3f",
@@ -46,6 +46,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "dc322bc25a9f0862f0620592b60d731a",
     "url": "/static/media/m-react-weather.dc322bc2.jpg"
+  },
+  {
+    "revision": "6d761c0f1932224132c83e82f7ab2622",
+    "url": "/static/media/magyarflix.6d761c0f.jpg"
   },
   {
     "revision": "e419075b8db80a1fc82fc73a94001136",
