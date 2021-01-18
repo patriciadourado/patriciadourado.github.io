@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.c2a0a3c8.chunk.css",
+    "main.css": "/static/css/main.bc637b41.chunk.css",
     "main.js": "/static/js/main.74cb691f.chunk.js",
     "main.js.map": "/static/js/main.74cb691f.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.a67fd0d6.js",
@@ -8,9 +8,9 @@
     "static/js/2.5620ca74.chunk.js": "/static/js/2.5620ca74.chunk.js",
     "static/js/2.5620ca74.chunk.js.map": "/static/js/2.5620ca74.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.999ac3182c717a74f5ce51613d9dcbc4.js": "/precache-manifest.999ac3182c717a74f5ce51613d9dcbc4.js",
+    "precache-manifest.0a89b11b829f7f96efef190ac1263081.js": "/precache-manifest.0a89b11b829f7f96efef190ac1263081.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.c2a0a3c8.chunk.css.map": "/static/css/main.c2a0a3c8.chunk.css.map",
+    "static/css/main.bc637b41.chunk.css.map": "/static/css/main.bc637b41.chunk.css.map",
     "static/media/app-ru.jpg": "/static/media/app-ru.ee3521c7.jpg",
     "static/media/avifa.jpg": "/static/media/avifa.a5408494.jpg",
     "static/media/main.css": "/static/media/intro.9e0922ea.jpg",
@@ -25,7 +25,7 @@
   "entrypoints": [
     "static/js/runtime-main.a67fd0d6.js",
     "static/js/2.5620ca74.chunk.js",
-    "static/css/main.c2a0a3c8.chunk.css",
+    "static/css/main.bc637b41.chunk.css",
     "static/js/main.74cb691f.chunk.js"
   ]
 }
