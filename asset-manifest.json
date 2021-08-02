@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.1ed025e1.chunk.css",
-    "main.js": "/static/js/main.dd1ca8fe.chunk.js",
-    "main.js.map": "/static/js/main.dd1ca8fe.chunk.js.map",
+    "main.js": "/static/js/main.8a135e9b.chunk.js",
+    "main.js.map": "/static/js/main.8a135e9b.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.a67fd0d6.js",
     "runtime-main.js.map": "/static/js/runtime-main.a67fd0d6.js.map",
     "static/js/2.8428430c.chunk.js": "/static/js/2.8428430c.chunk.js",
     "static/js/2.8428430c.chunk.js.map": "/static/js/2.8428430c.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.a3827ccb374bd964e74db0a7b2d1cfea.js": "/precache-manifest.a3827ccb374bd964e74db0a7b2d1cfea.js",
+    "precache-manifest.f3d3942dfaed53b2f2f01f469c28a5db.js": "/precache-manifest.f3d3942dfaed53b2f2f01f469c28a5db.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.1ed025e1.chunk.css.map": "/static/css/main.1ed025e1.chunk.css.map",
     "static/media/blog-pic.jpg": "/static/media/blog-pic.441215f3.jpg",
@@ -18,7 +18,7 @@
     "static/media/m-magyarflix.gif": "/static/media/m-magyarflix.db8607f9.gif",
     "static/media/m-quad.jpg": "/static/media/m-quad.f7451b4a.jpg",
     "static/media/m-react-weather.gif": "/static/media/m-react-weather.10959707.gif",
-    "static/media/magyarflix.gif": "/static/media/magyarflix.ec4e64b1.gif",
+    "static/media/magyarflix.gif": "/static/media/magyarflix.d246e88c.gif",
     "static/media/profile-pic.jpg": "/static/media/profile-pic.e419075b.jpg",
     "static/media/quad_board.jpg": "/static/media/quad_board.c67603c3.jpg",
     "static/media/react-weather.gif": "/static/media/react-weather.34193d3d.gif"
@@ -27,6 +27,6 @@
     "static/js/runtime-main.a67fd0d6.js",
     "static/js/2.8428430c.chunk.js",
     "static/css/main.1ed025e1.chunk.css",
-    "static/js/main.dd1ca8fe.chunk.js"
+    "static/js/main.8a135e9b.chunk.js"
   ]
 }
