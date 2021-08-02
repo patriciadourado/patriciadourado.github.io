@@ -1,0 +1,66 @@
+self.__precacheManifest = (self.__precacheManifest || []).concat([
+  {
+    "revision": "cac4c6b41d3bf13b800b9fa6b4fda241",
+    "url": "/index.html"
+  },
+  {
+    "revision": "8bf4f57246ad121dd52c",
+    "url": "/static/css/main.964da8a9.chunk.css"
+  },
+  {
+    "revision": "0279d83bf300f83125b3",
+    "url": "/static/js/2.8428430c.chunk.js"
+  },
+  {
+    "revision": "8bf4f57246ad121dd52c",
+    "url": "/static/js/main.6a28a5d3.chunk.js"
+  },
+  {
+    "revision": "a99fc08f10046f85459e",
+    "url": "/static/js/runtime-main.a67fd0d6.js"
+  },
+  {
+    "revision": "441215f37837e458511bdd5d0492c312",
+    "url": "/static/media/blog-pic.441215f3.jpg"
+  },
+  {
+    "revision": "9e0922ea1c51a8fd17e9e308ca16e938",
+    "url": "/static/media/intro.9e0922ea.jpg"
+  },
+  {
+    "revision": "a30e874e112e15593fd8bc1e1c793512",
+    "url": "/static/media/jcastro.a30e874e.mp4"
+  },
+  {
+    "revision": "472986afa71d0c411adab8e890e09ecc",
+    "url": "/static/media/m-jcastro.472986af.mp4"
+  },
+  {
+    "revision": "81d41fb1de6fe6ff48fbd626eae8d50a",
+    "url": "/static/media/m-magyarflix.81d41fb1.mp4"
+  },
+  {
+    "revision": "f7451b4a17e39bc1caf9d56bc4ba5c3f",
+    "url": "/static/media/m-quad.f7451b4a.jpg"
+  },
+  {
+    "revision": "b63097d0ff538e9062b617448fb30722",
+    "url": "/static/media/m-react-weather.b63097d0.mp4"
+  },
+  {
+    "revision": "ffe1bcfb9b086ae2148ef702ab810c85",
+    "url": "/static/media/magyarflix.ffe1bcfb.mp4"
+  },
+  {
+    "revision": "e419075b8db80a1fc82fc73a94001136",
+    "url": "/static/media/profile-pic.e419075b.jpg"
+  },
+  {
+    "revision": "c67603c365d74e5d1e6edc22eec98f07",
+    "url": "/static/media/quad_board.c67603c3.jpg"
+  },
+  {
+    "revision": "90e55e9a60fc18f61e3da289e52a4566",
+    "url": "/static/media/react-weather.90e55e9a.mp4"
+  }
+]);
