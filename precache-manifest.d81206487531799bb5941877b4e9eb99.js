@@ -1,23 +1,51 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0fc23dde6df72e827ee403dc38f0f5be",
+    "revision": "4d9ebcc9a042f2355e27b0ef6997dd87",
     "url": "/index.html"
   },
   {
-    "revision": "f4a2903f21cc2196b870",
-    "url": "/static/css/main.964da8a9.chunk.css"
+    "revision": "5e7a645048e03de4af68",
+    "url": "/static/css/main.3cc2e4af.chunk.css"
   },
   {
     "revision": "0279d83bf300f83125b3",
     "url": "/static/js/2.8428430c.chunk.js"
   },
   {
-    "revision": "f4a2903f21cc2196b870",
+    "revision": "5e7a645048e03de4af68",
     "url": "/static/js/main.4d126e1e.chunk.js"
   },
   {
     "revision": "a99fc08f10046f85459e",
     "url": "/static/js/runtime-main.a67fd0d6.js"
+  },
+  {
+    "revision": "eec9b1b134bfc16624d240b70db7ed59",
+    "url": "/static/media/Lora-Bold.eec9b1b1.ttf"
+  },
+  {
+    "revision": "ab2098e1bf41df6b514fdf1f3d4f30b0",
+    "url": "/static/media/Lora-Italic.ab2098e1.ttf"
+  },
+  {
+    "revision": "c684a3de5c014a61d5139d5b97da99fc",
+    "url": "/static/media/Lora-Regular.c684a3de.ttf"
+  },
+  {
+    "revision": "a3e0b5f427803a187c1b62c5919196aa",
+    "url": "/static/media/Poppins-Bold.a3e0b5f4.ttf"
+  },
+  {
+    "revision": "f61a4eb27371b7453bf5b12ab3648b9e",
+    "url": "/static/media/Poppins-Medium.f61a4eb2.ttf"
+  },
+  {
+    "revision": "8b6af8e5e8324edfd77af8b3b35d7f9c",
+    "url": "/static/media/Poppins-Regular.8b6af8e5.ttf"
+  },
+  {
+    "revision": "4cdacb8f89d588d69e8570edcbe49507",
+    "url": "/static/media/Poppins-SemiBold.4cdacb8f.ttf"
   },
   {
     "revision": "441215f37837e458511bdd5d0492c312",
