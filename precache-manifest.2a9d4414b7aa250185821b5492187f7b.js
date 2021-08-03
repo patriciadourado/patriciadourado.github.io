@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4d9ebcc9a042f2355e27b0ef6997dd87",
+    "revision": "2b64f53cf9b588f81d95c50596cef4b8",
     "url": "/index.html"
   },
   {
-    "revision": "5e7a645048e03de4af68",
+    "revision": "d430851c103a27465fe6",
     "url": "/static/css/main.3cc2e4af.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.8428430c.chunk.js"
   },
   {
-    "revision": "5e7a645048e03de4af68",
-    "url": "/static/js/main.4d126e1e.chunk.js"
+    "revision": "d430851c103a27465fe6",
+    "url": "/static/js/main.eb9b8543.chunk.js"
   },
   {
     "revision": "a99fc08f10046f85459e",
@@ -56,8 +56,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/intro.9e0922ea.jpg"
   },
   {
-    "revision": "a30e874e112e15593fd8bc1e1c793512",
-    "url": "/static/media/jcastro.a30e874e.mp4"
+    "revision": "950cfc831699999957ead986f5ba20dd",
+    "url": "/static/media/jcastro.950cfc83.mp4"
   },
   {
     "revision": "472986afa71d0c411adab8e890e09ecc",
@@ -76,8 +76,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/m-react-weather.b63097d0.mp4"
   },
   {
-    "revision": "ffe1bcfb9b086ae2148ef702ab810c85",
-    "url": "/static/media/magyarflix.ffe1bcfb.mp4"
+    "revision": "f1d4d30bec77118ed8ba72db1e149c94",
+    "url": "/static/media/magyarflix.f1d4d30b.mp4"
   },
   {
     "revision": "e419075b8db80a1fc82fc73a94001136",
