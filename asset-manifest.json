@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.8079902f.css",
-    "main.js": "/static/js/main.723a41fc.js",
+    "main.js": "/static/js/main.9eab124f.js",
     "static/media/magyarflix.mp4": "/static/media/magyarflix.9e9d465ace24ba367f4b.mp4",
     "static/media/quad_board.jpg": "/static/media/quad_board.8e1434902938c614fd17.jpg",
     "static/media/intro.jpg": "/static/media/intro.d92434b52123a9e20561.jpg",
@@ -22,10 +22,10 @@
     "static/media/blog-pic.jpg": "/static/media/blog-pic.4eac5ecaa453fb0174da.jpg",
     "index.html": "/index.html",
     "main.8079902f.css.map": "/static/css/main.8079902f.css.map",
-    "main.723a41fc.js.map": "/static/js/main.723a41fc.js.map"
+    "main.9eab124f.js.map": "/static/js/main.9eab124f.js.map"
   },
   "entrypoints": [
     "static/css/main.8079902f.css",
-    "static/js/main.723a41fc.js"
+    "static/js/main.9eab124f.js"
   ]
 }
